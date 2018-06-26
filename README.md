@@ -1,2 +1,2 @@
 # opdymo
-A model of continious opinion, selective exposure and bounded information uptake
+An *op*inion *dy*namics *mo*del including selective exposure and bounded information uptake
