@@ -1,2 +1,2 @@
-# opdymo
-An **op**inion **dy**namics **mo**del of continuous opinion, selective exposure and bounded information uptake
+# **CO**n**SE**ns**U**s
+A model of **C**ontinuous **O**pinion, **S**elective **E**xposure and bounded information **U**ptake
