@@ -1,2 +1,2 @@
 # COntent
-A model of **C**ontinuous **o**pinion, content filtering and bounded information uptake
+A model of **C**ontinuous **O**pinion, Content Filtering and Bounded Information Uptake
