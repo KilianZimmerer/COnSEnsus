@@ -7,6 +7,7 @@ N  = 100 # network size
 iu = 51 # information uptake
 dd = 1 # degree density
 p = (0.1, 1) # propaganda (denisty   , opinion)
+
 # generating model (Erdos-Renyi network)
 graph = nx.erdos_renyi_graph(N, dd)
 print(nx.info(graph))
