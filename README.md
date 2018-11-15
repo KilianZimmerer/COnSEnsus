@@ -11,10 +11,5 @@ The algorithm reads:
 3. Take the mean of these **u** closest opinions and assign it to the chosen agent
 4. Repeat the above steps until convergence is reached
 
-The dynamics are visualized in the following figure:
-
-![Visualized dynamics](./visualization/model_overview-2.png)
-
-
 ## Model execution
 The module 'COntent.py' defines the Model class. The model can be executed as shown in the 'COntent_run.py' script.
