@@ -2,13 +2,13 @@
 A model of **C**ontinuous **O**pinion, Content Filtering and Bounded Information Uptake to describe the formation of echo chambers and filter bubbles in social networks.
 
 ## Description
-This model describes the formation of opinions in social networks by considering content filtering and a bounded capacity of information processing. Macroscopic results reveal the emergence of opinion groups.
+The model describes the formation of opinions in social networks by considering content filtering and a bounded amount of information that can be processed (assigned as parameter **u**). The model is implemented as an agent based model. With the network structure and the parameter u as input variables. 
 
-The model is implemented as an agent based model. The algorithm reads:
+The algorithm reads:
 
 1. Randomly choose an agent and its neighbors
-2. Determine the u closest opinions of its neighbors
-3. Take the mean of these u closest opinions and assign it to the chosen agent
+2. Determine the **u** closest opinions of its neighbors
+3. Take the mean of these **u** closest opinions and assign it to the chosen agent
 4. Repeat the above steps until convergence is reached
 
 ## Model execution
